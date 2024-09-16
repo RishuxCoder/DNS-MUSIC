@@ -9,7 +9,7 @@ AUTO = True
 
 ADD_INTERVAL = 1
 users = (
-    "@MISS_AARU_MUSIC_BOT"  # dont change because it is connected from client to use music api key
+    "@vip_music_vc_bot"  # dont change because it is connected from client to use music api key
 )
 
 

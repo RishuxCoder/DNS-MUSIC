@@ -32,7 +32,7 @@ from VIPMUSIC.utils.decorators.userbotjoin import UserbotWrapper
 from VIPMUSIC.utils.database import get_assistant, is_active_chat
 
 
-@app.on_message(filters.command("repo"))
+@app.on_message(filters.command("rennnpo"))
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/b84e7d83019ee04e65fbe.jpg",
@@ -58,7 +58,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/DNS_NETWORK"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ur_support07"
                     )
                 ]
             ]
